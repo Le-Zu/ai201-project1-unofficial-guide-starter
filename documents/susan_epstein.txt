@@ -1,0 +1,218 @@
+Professor: Susan Epstein
+School: Hunter College
+Department: Computer Science
+Overall Quality: 2.1 / 5.0
+Would Take Again: 15.1%
+Difficulty: 4.4 / 5.0
+Total Ratings: 93
+
+---
+Date: 2026-05-28
+Course: CSCI353
+Rating: 5.0
+Difficulty: 4.0
+Comment: I learned more in this course than in any other CS class. One of the best professors at Hunter College.  She never misses her lectures. She provides excellent supplemental materials. The workload is heavy, but it is worth the effort. Highly recommended for students who take CS seriously and are ready to work.
+Tags: Tough grader, Amazing lectures , Inspirational
+
+---
+Date: 2026-04-29
+Course: CSCI150
+Rating: 1.0
+Difficulty: 5.0
+Comment: She really really really picky on how you do stuff don't take her run
+Tags: Tough grader, Get ready to read, Lots of homework
+
+---
+Date: 2026-01-22
+Course: CSCI150
+Rating: 1.0
+Difficulty: 5.0
+Comment: Drop the files Susan...
+Tags: Tough grader, Participation matters, Lots of homework
+
+---
+Date: 2026-01-12
+Course: CS353
+Rating: 1.0
+Difficulty: 2.0
+Comment: biggest larper in the history of ML
+Tags: None
+
+---
+Date: 2025-12-30
+Course: CSCI150
+Rating: 1.0
+Difficulty: 4.0
+Comment: She is smart, but can't teach. Lots of homework without clear rubric. UTA's aren't helpful. TA can be savior only a handful, rest of them have no clue. The slides contains mistakes, dense with math. Take her only, so that you can appreciate the best.
+Tags: Tough grader, Lots of homework, Lecture heavy
+
+---
+Date: 2025-12-30
+Course: CSCI150
+Rating: 2.0
+Difficulty: 5.0
+Comment: You will not learn anything from her slides, contains dense math. She is smart but can't teach. Slides have many mistakes. Homework questions are often confusing and there is no clear rubric what she wants. The grading is even worse, she wants specific things, only what she wants. Take only if you want the worse so you can appreciate the best.
+Tags: Get ready to read, Lots of homework, Lecture heavy
+
+---
+Date: 2025-12-27
+Course: CSCI150
+Rating: 1.0
+Difficulty: 5.0
+Comment: Can't teach, overcomplicates topics on purpose to fear monger, tells you to drop the class, all around really feels like she WANTS you to fail. Tests on ENTIRE course, no review or guidance, just tells you to review EVERY LECTURE SLIDE
+
+Not even god can save you from her. If you didn't believe in a higher power before you'll start with this class
+Tags: Tough grader
+
+---
+Date: 2025-12-23
+Course: CSCI150
+Rating: 1.0
+Difficulty: 5.0
+Comment: I'd rather do crack on the sidewalk than take her again.
+Tags: Tough grader, Get ready to read, Participation matters
+
+---
+Date: 2025-12-20
+Course: CSCI150
+Rating: 1.0
+Difficulty: 5.0
+Comment: Took her 2 years ago. Unsurprisingly, she's still absolutely hot garbag at being a professor. If she's teaching 150, just wait until next semester (or take during Summer). Don't waste your time with her. Makes Shankar seem human and Eric the 2nd coming of Jesus (amen).  If me returning after 2 years to hate post isn't enough to dissuade u, God bles
+Tags: Tough grader, Lecture heavy, Test heavy
+
+---
+Date: 2025-11-11
+Course: CSCI150
+Rating: 2.0
+Difficulty: 5.0
+Comment: Very strict policies and is not lenient whatsoever
+Tags: Tough grader, Lots of homework, Lecture heavy
+
+---
+Date: 2025-11-04
+Course: CSCI150
+Rating: 1.0
+Difficulty: 4.0
+Comment: Areas of Stress:
+1. The homework she assigns lack proper structuring and will often lead you to being very confused and doubtful.
+2. Poor communication. Claims that she has told you something before, but in reality, has not told you.
+3. &#8220;Just Quit&#8221; mentality if you're behind
+4. Grading guidelines are inconsistent
+Keep these in mind if you take her
+Tags: Tough grader, Lots of homework, Lecture heavy
+
+---
+Date: 2025-10-13
+Course: CSCI150
+Rating: 1.0
+Difficulty: 5.0
+Comment: I guarantee you, this is the worst professor you will ever take, hands down. Doesn't help, just fearmongers students to drop the class. TAs are just as bad as she is. Grading is ridiculously strict and they keep moving the goalposts. Zero accountability when they're wrong. By the grace of whatever religion you follow, do NOT take this class.
+Tags: Tough grader, Get ready to read, Participation matters
+
+---
+Date: 2025-09-27
+Course: CSCI150
+Rating: 1.0
+Difficulty: 5.0
+Comment: Very harsh grader. Very vague on what she wants of her homework submissions. Overwhelming amounts of homework. Please avoid this class if you can and select someone else or attend elsewhere to take it.
+Tags: Tough grader, Get ready to read, Lots of homework
+
+---
+Date: 2025-05-28
+Course: CSCI49389
+Rating: 1.0
+Difficulty: 5.0
+Comment: Take this class or this professor if you wanna question your life
+Tags: None
+
+---
+Date: 2025-05-27
+Course: CSCI49389
+Rating: 4.0
+Difficulty: 4.0
+Comment: This class is A LOT of work. Every week, you read papers and write a report on them. Later, you do 3 presentations on the papers you've read, and your final is a 20-minute presentation. Some weeks are easy going, others hellish. However, it's in-depth, and you learn a lot about research. She explains concepts well and never makes you feel stupid.
+Tags: Get ready to read, Gives good feedback, So many papers
+
+---
+Date: 2025-05-27
+Course: CSCI353
+Rating: 3.0
+Difficulty: 5.0
+Comment: Only take her if you're interested in the material. You'll learn a lot but mostly on your own. 
+She's more of a mentor than a professor.
+Assignments and project are long, exams are fair. 
+Very organized. 
+She seems smart but as Einstein said "If you can't explain it simply, you don't understand it well enough."
+Tags: Tough grader, Lots of homework, Lecture heavy
+
+---
+Date: 2025-03-16
+Course: COMPSCI
+Rating: 1.0
+Difficulty: 5.0
+Comment: should've taken her instead of Jeffrey
+Tags: Tough grader, Get ready to read, Hilarious
+
+---
+Date: 2025-03-05
+Course: CS353
+Rating: 1.0
+Difficulty: 3.0
+Comment: Will go against the grain to say that Epstein is not smart, but she pretends to be. Watch closely: her slides and dense with tons of math equations on them. But does she justify the equation? Explain the "why" or the intuition behind it? Connect it to the previous slide? Nope, she's having an aside on how to draw a zeta character. A true BS artist.
+Tags: Tough grader, Group projects, Lots of homework
+
+---
+Date: 2024-12-05
+Course: CSCI350
+Rating: 1.0
+Difficulty: 5.0
+Comment: slides are based on the TB but it's plagiarized somewhere online. makes extremely condescending remarks. Lectures = her reading off slides which you can find in the TB. Lots of hw. Her "project" is also plagiarized online but she claimed it was her idea. lol. no practice exams. zero leniency. don't take her class if ur interested in the subject.
+Tags: Tough grader, Lots of homework
+
+---
+Date: 2024-05-25
+Course: CSCI49389
+Rating: 5.0
+Difficulty: 3.0
+Comment: Not for the faint hearted or lazy. You have to put in the work to learn, and she is a great resource with her background and experience in this field. You learn to read and discuss heavily technical papers and the underlying concepts. She encourages you to think for yourself and go hunting for answers. Overall, pushes you to be better.
+Tags: Get ready to read, Gives good feedback, Respected
+
+---
+Date: 2024-04-13
+Course: CSCI150
+Rating: 1.0
+Difficulty: 5.0
+Comment: Terrible class, the professor gave bad lectures.
+Tags: None
+
+---
+Date: 2023-12-23
+Course: CSCI150
+Rating: 4.0
+Difficulty: 3.0
+Comment: Smart and knows what she's talking about, but the content is harder than the hello world classes and you have to study on your own to do well since the tests are hard. Some people keep failing because it uses logic & math so you have to think to solve problems that have right and wrong answers. It's a weed-out course tbh comp sci isn't for everyone
+Tags: Tough grader
+
+---
+Date: 2023-12-20
+Course: CSCI150
+Rating: 1.0
+Difficulty: 5.0
+Comment: Seldom gives feedback. Intimidates students. Bare-minimum accommodation policy. Replaces lowest test grade with the final; drops lowest 2 hw and attendance. No curve. Harsh regrade to make you lose more points. Poor communication. No apology/curve knowing the second test had too many problems for the time. Still blamed students for struggling...
+Tags: Tough grader, Lots of homework, Lecture heavy
+
+---
+Date: 2023-12-19
+Course: CSCI150
+Rating: 1.0
+Difficulty: 5.0
+Comment: pls dont ever make the mistake of taking this professor. She is smart but unfortunately all her credit end there. She comes off as incredibly condescending and makes a challenging environment for students to pass. Its almost like she wants us to fail. Sending emails for students to drop the class, uploading assignments late, and terrible test maker
+Tags: Tough grader, Lots of homework
+
+---
+Date: 2023-12-17
+Course: CSCI150
+Rating: 1.0
+Difficulty: 5.0
+Comment: The professor may be smart and experienced, but she doesn't know how to communicate that information from her mind to us. That is the main thing that makes a good professor, ability to condense and describe. Her lectures are useless, she tries to make it seem difficult, even fearmongering.
+Tags: None

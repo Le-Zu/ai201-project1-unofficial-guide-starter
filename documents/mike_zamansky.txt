@@ -1,0 +1,79 @@
+Professor: Mike Zamansky
+School: Hunter College
+Department: Computer Science
+Overall Quality: 4.6 / 5.0
+Would Take Again: 88.9%
+Difficulty: 2.6 / 5.0
+Total Ratings: 9
+
+---
+Date: 2023-05-24
+Course: CSCI235
+Rating: 5.0
+Difficulty: 1.0
+Comment: He's a good professor overall. He clearly knows what he's talking about and demonstrates it in his lectures.
+Tags: Clear grading criteria, Respected
+
+---
+Date: 2023-01-27
+Course: CS127
+Rating: 5.0
+Difficulty: 1.0
+Comment: Zamansky knows what he's talking about. Knows a lot of top people and is very experienced. Great teacher.
+Tags: None
+
+---
+Date: 2022-12-14
+Course: CS127
+Rating: 4.0
+Difficulty: 2.0
+Comment: He is a good professor, but the class is fast pace so I found it a little challenging. If you have already taken a comp science class before it should be really easy for you. He is a fair grader. As long as you show some understanding of the project you will do well in this class. He goes over examples and gives a reading on "runestone".
+Tags: Get ready to read, Group projects, Lecture heavy
+
+---
+Date: 2022-11-06
+Course: CS127
+Rating: 2.0
+Difficulty: 2.0
+Comment: While he is very straightforward, clear, and chill, he didn't really do much to teach new things and tell you to read runestone, mostly going over the same thing(I think he was focusing on personal projects?), barely gives you good responses to questions, he has a very sassy tone. to keep it short, bad in lectures, idk about recitation
+Tags: Clear grading criteria, Graded by few things
+
+---
+Date: 2021-12-19
+Course: CSCI235
+Rating: 5.0
+Difficulty: 3.0
+Comment: High quality professor. You will learn a lot and you will not forget it the next semester.
+Tags: Respected, Inspirational, Amazing lectures
+
+---
+Date: 2020-10-12
+Course: CS101
+Rating: 5.0
+Difficulty: 5.0
+Comment: Amazing professor! I highly recommend studying CS with the Z!
+Tags: Respected, Inspirational, Amazing lectures
+
+---
+Date: 2018-09-03
+Course: CSCI133
+Rating: 5.0
+Difficulty: 3.0
+Comment: Professor Zamansky may be tough at times, but he is very caring and very knowledgeable and does it with purpose. He actually wants you to succeed and know what you need when you get out of college and go into the real world.
+Tags: Gives good feedback, Respected, Caring
+
+---
+Date: 2017-06-02
+Course: CS133
+Rating: 5.0
+Difficulty: 2.0
+Comment: Best professor. I would quit cs if I didn't have him. Feel bad for other students that didn't have him.
+Tags: Gives good feedback, Respected, Inspirational
+
+---
+Date: 2016-12-14
+Course: CS127
+Rating: 5.0
+Difficulty: 4.0
+Comment: Great professor with a great sense of humor. He's got LOTS of experience in CS, so your'e learning just by being around him! The class is fast paced, so you have to put a lot of time into the work and understanding the material outside of class.  Take advantage of office hours. Put in the effort and you'll do well.
+Tags: None

@@ -1,0 +1,211 @@
+Professor: Melissa Lynch
+School: Hunter College
+Department: Computer Science
+Overall Quality: 3.2 / 5.0
+Would Take Again: 61.4%
+Difficulty: 2.5 / 5.0
+Total Ratings: 57
+
+---
+Date: 2026-05-30
+Course: CSCI160
+Rating: 1.0
+Difficulty: 3.0
+Comment: Easy class but could have been better with a different professor
+Tags: EXTRA CREDIT, Hilarious, Graded by few things
+
+---
+Date: 2026-05-29
+Course: CSCI160
+Rating: 1.0
+Difficulty: 3.0
+Comment: Comes to class 30 minutes late, grades late, doesn't respond to emails, talks absolute nonsense to waste lecture time, and uploads review quizzes the night before exams, or not at all. She lied about the contents inside the final exam. The final was NOT commulative. Professor Lynch made this class stressful and annoying.
+Tags: Graded by few things
+
+---
+Date: 2026-05-28
+Course: CSCI160
+Rating: 2.0
+Difficulty: 2.0
+Comment: she shows up to class half an hour late doesn't respond to emails and you won't receive your grade for your exams for at least two weeks. You will also need to self teach a lot.
+Tags: EXTRA CREDIT, Clear grading criteria, Graded by few things
+
+---
+Date: 2026-05-27
+Course: CSCI160
+Rating: 5.0
+Difficulty: 2.0
+Comment: I like her teaching style. We didn't have homework, just quizzes and exams. She grades well and very good on partial credit. She does come in late from time to time. Overall a great professor.
+Tags: EXTRA CREDIT, Gives good feedback
+
+---
+Date: 2026-05-03
+Course: CSCI160
+Rating: 5.0
+Difficulty: 1.0
+Comment: she helped my grandma cross the street with groceries
+Tags: Inspirational, Caring
+
+---
+Date: 2026-02-05
+Course: CSCI160
+Rating: 5.0
+Difficulty: 2.0
+Comment: Very clear grading breakdown for the course. Attendance not mandatory and lectures not needed to succeed on exams through self-study. Do the homework and show up ready for the exams-- easy A. Sometimes has poor communication but I've personally had no issues. Would take again.
+Tags: Clear grading criteria, Lots of homework, Test heavy
+
+---
+Date: 2026-02-02
+Course: CSCI127
+Rating: 1.0
+Difficulty: 4.0
+Comment: She dont answer her emails.
+Shes either late 15-30 mins or doesn't even show up.
+Shes difficult to work with as a professor.
+Tags: None
+
+---
+Date: 2026-01-01
+Course: CSCI160
+Rating: 1.0
+Difficulty: 1.0
+Comment: Please, if you're taking CSCI160, avoid her. While her teaching style is laid-back. She is really laid-back, and is irresponsible when it comes to communication and meeting deadlines. She still has not submitted the final grades for the fall 2025 semester, and we have no communication about it whatsoever.
+
+Save yourself the stress, don't take her!
+Tags: Get ready to read, Graded by few things
+
+---
+Date: 2025-12-31
+Course: CSCI160
+Rating: 1.0
+Difficulty: 3.0
+Comment: Laziest prof ever. Takes forever to release exam results, barely teaches, and now everyone is stuck with an "INC" grade on their transcript because she didn't release grades before the deadline.
+Tags: None
+
+---
+Date: 2025-12-14
+Course: CSCI160
+Rating: 5.0
+Difficulty: 2.0
+Comment: It was a pretty easy semester. As long as you take notes and do the practice quizzes she assigns before the exams, you are guaranteed to pass. The practices are almost identical to the actual exams, which is a plus.
+Tags: Clear grading criteria, Respected, Lecture heavy
+
+---
+Date: 2025-08-28
+Course: CSCI127
+Rating: 3.0
+Difficulty: 3.0
+Comment: This is a weed out class for CS. She is a kind professor but the way the class is designed, you are going to be relying on yourself to pass. Lots of self teaching unless you want to go to tutoring every week. Here's a tip for final, cater your one page cheat sheet to the exam review she posts right before the final. very similar questions to final.
+Tags: None
+
+---
+Date: 2025-06-25
+Course: CSCI160
+Rating: 5.0
+Difficulty: 3.0
+Comment: AMAZING!!!
+Tags: None
+
+---
+Date: 2025-06-25
+Course: CSCI160
+Rating: 5.0
+Difficulty: 3.0
+Comment: dont listen to the bad reviews, shes so nice and chill.
+Tags: Amazing lectures , Clear grading criteria, Caring
+
+---
+Date: 2025-05-29
+Course: CSCI160
+Rating: 1.0
+Difficulty: 1.0
+Comment: Even though I got a good grade on this class it will not make up for the fact how stressful her disorganization was. These recent good reviews reflect this being an easy grade but we never got our final exam or third midterm graded and have 0 clue what our final letter grade is even made up of. HW was also not graded on gradescope so its a mystery.
+Tags: None
+
+---
+Date: 2025-05-29
+Course: CSCI160
+Rating: 4.0
+Difficulty: 3.0
+Comment: Well if I'll be grades posted after midnight 2 days after the deadline. She's nice but has a lot things going on in life and graded exams and HWs last min. However only if you prefer self learning and not mandatory attendance. Class is easily passable reviewing the sample exams and HWs. The downside is she took long to post grade and update GitHub.
+Tags: Get ready to read, Lots of homework, Test heavy
+
+---
+Date: 2025-05-29
+Course: CSCI160
+Rating: 5.0
+Difficulty: 3.0
+Comment: She is a great professor. Her exam reviews are very clear. If you study the exam review, you will pass the course.
+Tags: Get ready to read, Amazing lectures , Clear grading criteria
+
+---
+Date: 2025-05-29
+Course: CSCI160
+Rating: 4.0
+Difficulty: 1.0
+Comment: Slacking on grading but easy A if u just studied for 2 mins before exam
+Tags: None
+
+---
+Date: 2025-05-29
+Course: CSCI160
+Rating: 1.0
+Difficulty: 3.0
+Comment: IT IS PAST THE DEADLINE WHERE IS MY LETTER GRADE???????????????????????????????????? LIKE SHE USED TO BE THE BEST WHAT HAPPENED NOW ??
+Tags: Lots of homework, So many papers, Test heavy
+
+---
+Date: 2025-05-28
+Course: CSCI160
+Rating: 5.0
+Difficulty: 3.0
+Comment: great professor but still waiting on my grade. she has a very kind heart but can be unresponsive to emails and grades slowly. i hope shes ok lolll bc she rly is the best
+Tags: Respected, Test heavy
+
+---
+Date: 2025-05-27
+Course: CSCI160
+Rating: 2.0
+Difficulty: 2.0
+Comment: She's nice, but doesn't really teach much. Doesn't answer emails much, cancels class last second, exam 3 was never graded so none of know what we got. The workload might be less and grading might be better, but you learn less and its been disorganized. TA's lied to me multiple times (exam question, even general questions)
+Tags: None
+
+---
+Date: 2025-05-27
+Course: CSCI160
+Rating: 2.0
+Difficulty: 2.0
+Comment: She's nice and generous but doesn't do things on time. She posted a bunch of hws a few weeks before the final, never fixed the regrade request, posted a midterm review at last min, plus we still don't know our 3rd midterm grade which is unbelievable, and her TAs are lazy. They're always on their phones during the lecture and do NOTHING!!
+Tags: None
+
+---
+Date: 2025-05-27
+Course: CSCI160
+Rating: 2.0
+Difficulty: 2.0
+Comment: Yes she's very kind and nice unlike many other professors. However, very inaccessible outside of classes, her method of teaching is just reading the textbook, only &#8220;teaches&#8221; for 20 minutes out of the hour and 30 minutes that class has, late to everything, empty promises of posting review and lecture videos. Don't know how she fell off so hard :,)
+Tags: Clear grading criteria, Lots of homework, Graded by few things
+
+---
+Date: 2025-05-27
+Course: CSCI160
+Rating: 1.0
+Difficulty: 3.0
+Comment: I think she just relies on those useless TAs to do all the stuff but they clearly lazy themselves and I don't even know why they're TAs, I swear I asked them questions about the course and they ain't even know the answers themselves.
+Tags: None
+
+---
+Date: 2025-05-27
+Course: CSCI160
+Rating: 1.0
+Difficulty: 2.0
+Comment: This class wasn't that hard luckily but boy does this professor does not know how to keep her promises. Firstly, she said she was going to review our midterm 2 grades and correct them during spring break as well as give our midterm 3 scores back. Mind you, as I am writing this review, we have not got either yet...
+Tags: Test heavy, Graded by few things
+
+---
+Date: 2025-05-27
+Course: CSCI160
+Rating: 1.0
+Difficulty: 2.0
+Comment: At the time of writing this review I am still waiting for my final exam to be graded and it was promised that we would get our grades back by tomorrow.
+Tags: Lots of homework, Lecture heavy

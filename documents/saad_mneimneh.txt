@@ -1,0 +1,210 @@
+Professor: Saad Mneimneh
+School: Hunter College
+Department: Computer Science
+Overall Quality: 3.4 / 5.0
+Would Take Again: 57.4%
+Difficulty: 4.4 / 5.0
+Total Ratings: 128
+
+---
+Date: 2025-11-25
+Course: STAT319
+Rating: 4.0
+Difficulty: 4.0
+Comment: He truly cares for his students and make sure they understand materials.Difficult class,def not easy, but not so terrible since he is willing to help you.
+Tags: Participation matters, Gives good feedback, Lots of homework
+
+---
+Date: 2025-05-28
+Course: CSCI150
+Rating: 5.0
+Difficulty: 5.0
+Comment: Yes, this is a hard class, but the difficulty comes from the material, not the professor. Saad is an excellent instructor. His lectures are clear, and he provides all notes and slides. He's accessible for help and offers generous curves and extra credit in recitation. This class requires a lot of studying, but the resources to succeed are there.
+Tags: Amazing lectures , Clear grading criteria, Accessible outside class
+
+---
+Date: 2025-05-28
+Course: CSCI150
+Rating: 4.0
+Difficulty: 4.0
+Comment: Not a bad professor, just a hard class. Makes the topic very approachable and teaches the material in a way that is easy to remember. Tests aren't the hardest but the questions can get a little too creative and confusing. Do the homework, make sure you understand the material (instead of only just accepting it as fact) and you will pass.
+Tags: Lecture heavy, Test heavy
+
+---
+Date: 2025-05-28
+Course: CSCI150
+Rating: 1.0
+Difficulty: 5.0
+Comment: His lectures and exams are causing anxiety because of the difficulty. For exams I had to study for at least 1-2 weeks, 3-8 hours a day. He gives homework that is not graded and really difficult. His lecture are hard to understand, so I recommend to watch videos on youtube instead. Also, he curves exams which makes it a little easier to pass.
+Tags: Lecture heavy, Test heavy, Graded by few things
+
+---
+Date: 2025-05-17
+Course: CSCI150
+Rating: 3.0
+Difficulty: 5.0
+Comment: This is a really tough class, so I think it's unfair to call Saad an awful professor. He went over topics thoroughly in lecture; they can just be difficult to understand. The tutoring center helped me a lot. And if you go to Saad's office hours or just try to talk 1 on 1, he does his best to help.
+Tags: None
+
+---
+Date: 2025-03-28
+Course: CS150
+Rating: 2.0
+Difficulty: 5.0
+Comment: This class made me go back on antidepressants after 3 years of thinking I didn't need them anymore. Makes you question if earning a degree in a field with a higher unemployment rate than fine arts is truly worth the suffering. If I make it to the end of the semester I'll write a more meaningful review.
+Tags: Graded by few things
+
+---
+Date: 2025-01-28
+Course: 150
+Rating: 1.0
+Difficulty: 5.0
+Comment: Saad wanted us to switch our major or drop out, using CS150 as the make or break course. He got his wish, the others and I switched our majors. He did us a favor. Comp Sci is oversaturated anyways and the major we switched too has many job opportunities. I know many Comp Sci graduates with 4.0GPA still struggling to get a IT job after years.
+Tags: So many papers, Lecture heavy, Test heavy
+
+---
+Date: 2025-01-23
+Course: CSCI705
+Rating: 5.0
+Difficulty: 5.0
+Comment: I initially struggled with this course as Dr. Saad's algorithm required a solid grasp of his slides to complete the homework and quizzes, which had similar formats. However, Dr. Saad applied a generous grading curve. For students scoring below a B, he marked their grades as incomplete and allowed extra contributions to help them secure a B+.
+Tags: Get ready to read, Lots of homework, Caring
+
+---
+Date: 2025-01-12
+Course: STAT319
+Rating: 4.0
+Difficulty: 5.0
+Comment: This class was incredibly difficult and harrowing; I'm shocked I got an A. For undergrads, one's grade is mostly decided by exams curved w/ the &#8730; method.
+
+Anyway, Saad cares about his students, and it shows. In a small class setting, he'll accommodate you as best he can if asked, and he is willing to have discussions after class. I appreciate that.
+Tags: Caring, Graded by few things, Accessible outside class
+
+---
+Date: 2024-12-24
+Course: CS150
+Rating: 5.0
+Difficulty: 5.0
+Comment: I actually failed this class the first time I took it and the second time through it clicked. If you failed its not the end of the world, come back stronger and be ready to grind. Saad isnt a bad professor he really does his best to explain the material its just very abstract. If you have any questions just email him hes a nice guy and replies fast
+Tags: Caring, Respected, Accessible outside class
+
+---
+Date: 2024-12-24
+Course: CS150
+Rating: 2.0
+Difficulty: 5.0
+Comment: if this will be your first time taking discrete, be willing to sacrifice a lot of your time studying. saad's notes prove to be helpful in some cases, but the lectures are very condensed. i really wish i could've experienced his teaching in a classroom setting. albeit, i did pass the class, but i say epermit. good luck.
+Tags: Tough grader, Get ready to read, Lecture heavy
+
+---
+Date: 2024-12-24
+Course: CS150
+Rating: 3.0
+Difficulty: 5.0
+Comment: Despite the Prof's efforts to curve, drop content/HW, simplify the final -- many retake this course (no matter the prof/college). There's a more deep rooted issue with how the avg. student approaches math and logic. So, consider an e-permit first, OR studying thrice as hard as any &#8220;good&#8221; student like that A- RMP with multiple grade curves... : |
+Tags: Tough grader, Test heavy
+
+---
+Date: 2024-12-23
+Course: CS150
+Rating: 4.0
+Difficulty: 5.0
+Comment: It's probably the TOUGHEST class you'll encounter at Hunter, but that doesn't make him a bad professor. In fact, he genuinely cares about teaching and made me think critically about math for the first time in my life.
+And yes, make sure to attend his classes. He creates his own questions, so ChatGPT or YouTube tutorials won't help much.
+Tags: Tough grader, EXTRA CREDIT
+
+---
+Date: 2024-12-22
+Course: CSCI150
+Rating: 2.0
+Difficulty: 5.0
+Comment: Saad has good intentions but his teaching style is complicated. He changes the exam format and decides to announce it last minute. No reference sheet. Closed note exams. For the final exam, no partial credit. Locking in for this class IS NOT enough, even w/ tutoring! Most people either failed the class or JUST passed w/ C.
+Tags: Lecture heavy, Test heavy, Graded by few things
+
+---
+Date: 2024-12-21
+Course: CS150
+Rating: 3.0
+Difficulty: 4.0
+Comment: Ignore the bad reviews. The average person isn't as good as they think they are. Just read some of the posts: "Real world has GPT to solve everything" "We want to learn CS and make $100000+ per year as SWEs" LMAO No one is going to want to pay these guys anything in the real world. Study hard, go to office hours, actually do the hw. You'll be fine.
+Tags: Tough grader, Lecture heavy, Test heavy
+
+---
+Date: 2024-12-19
+Course: CS150
+Rating: 3.0
+Difficulty: 3.0
+Comment: Challenging and time consuming, can't really go into his teaching style as I rarely went to the lectures but when I did he was&#8230;eccentric.All questions on test/hw are &#8220;original&#8221; so don't expect to input it into google or an ai chat to get an answer unless it's basic. This class will make you THINK about mathematical concepts and patterns, good luck.
+Tags: Tough grader, Get ready to read
+
+---
+Date: 2024-12-18
+Course: CS150
+Rating: 1.0
+Difficulty: 5.0
+Comment: This professor should not be teaching, at least in this manner, the exam changes last second, experimenting with how he should teach the class is something you should never do at the finals. Don't take this class in Hunter, just e-permit. This professor teaches the best in a small classroom, but he opts to teach in a huge lecture hall.
+Tags: Tough grader, Lecture heavy, Test heavy
+
+---
+Date: 2024-12-18
+Course: CSCI150
+Rating: 1.0
+Difficulty: 5.0
+Comment: Taken this class 1 time already this is the second time I'm failing. I finally understood the tests and most of the topic and I started to get better grades then he decides to switch the final format for no reason and give no partial credit. I would have passed if he didn't switch the format. I really tried to give him another chance.
+Tags: Tough grader, Test heavy
+
+---
+Date: 2024-12-18
+Course: CS150
+Rating: 1.0
+Difficulty: 5.0
+Comment: didnt even give us practice questions like examples and answers so like the exam is the same! or at least give us explanation on the exam like who tf knows cards and trianglated numbers expect for NERDS lets be so fr we should be allowed to chatgpt hw and exams in real life we have that to answer its not the stone ages
+Tags: Tough grader, Test heavy, Graded by few things
+
+---
+Date: 2024-12-18
+Course: 150
+Rating: 2.0
+Difficulty: 3.0
+Comment: Guys can anyone give me the group chat, like it's killing me where is it?
+Tags: Tough grader, Get ready to read, Accessible outside class
+
+---
+Date: 2024-12-18
+Course: CS150
+Rating: 1.0
+Difficulty: 5.0
+Comment: It should be illegal the level of difficulty the class is. Professors should be making us get As in subjects, not making half the class fail. Real world has GPT to solve everything, yet we're expected to memorize crazy difficult subjects like that? If so many students can't pass the final that's the problem with the professor's expectations, not us
+Tags: Tough grader, Test heavy
+
+---
+Date: 2024-12-18
+Course: CS150
+Rating: 1.0
+Difficulty: 5.0
+Comment: Saad just shared our finals grades, and the CS150 WhatsApp group chat is in a frenzy! Over half of the class failed the final, and the ones who did are trying to convince each other that Saad will somehow make the finals grade not count and pass them all. Meanwhile, the rest of the students are boasting about their passing grades on the finals.
+Tags: Tough grader, Lecture heavy, Test heavy
+
+---
+Date: 2024-12-18
+Course: CS150
+Rating: 1.0
+Difficulty: 5.0
+Comment: All students in the CS150 WhatsApp group chat are worried Saad will post our final grades before CS135 final which will kill our confidence. A girl in there is telling us to stop tweaking and pray. We did, but I think we should stop worrying about finals and focus on enjoying the holiday with our family and friends, which is more important anyways.
+Tags: Tough grader, Lecture heavy, Test heavy
+
+---
+Date: 2024-12-18
+Course: CSCI150
+Rating: 1.0
+Difficulty: 5.0
+Comment: WORST professor. Teaches concepts in the most complicated manner possible & expects students to apply the THEORY to hw/exams 100x harder than anything covered in class. No cheat sheets, no formulas. No memorization or review sheets either because he makes up test questions until the night before- COMPLETELY different from everything else provided.
+Tags: Test heavy
+
+---
+Date: 2024-12-17
+Course: CS150
+Rating: 1.0
+Difficulty: 5.0
+Comment: IGNORE the A+ kiss up review below, Saad is a TERRIBLE professor and 98% of the students FAIL his class. They claim it's the class to weed out CS students and JOKE about it, which is terrible. We want to learn CS and make $100,000+ per year as SWEs. They NEED to replace Saad with a professor who makes learning discrete EASY and FUN. Replace Yi too.
+Tags: Tough grader, Lecture heavy, Test heavy

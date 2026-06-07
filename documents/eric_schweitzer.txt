@@ -1,0 +1,211 @@
+Professor: Eric Schweitzer
+School: Hunter College
+Department: Computer Science
+Overall Quality: 2.6 / 5.0
+Would Take Again: 36.0%
+Difficulty: 3.9 / 5.0
+Total Ratings: 131
+
+---
+Date: 2025-12-22
+Course: CSCI265
+Rating: 2.0
+Difficulty: 5.0
+Comment: Learned a lot but I hate his pop quizzes.
+Tags: Tough grader, Beware of pop quizzes, Test heavy
+
+---
+Date: 2025-12-18
+Course: CS265
+Rating: 4.0
+Difficulty: 4.0
+Comment: The 1st time you take Eric, you'll think he's hot garbag at teaching. The 2nd time, you'll realize how much better he is compared to most CS profs at Hunter. The course was fair but difficult. Focus on quizzes (60% of your grade!!). You'll likely have to self-learn a lot, but the topics aren't too complex, just taught too abstractly by Eric imo.
+Tags: Get ready to read, Beware of pop quizzes, Graded by few things
+
+---
+Date: 2025-12-15
+Course: CS265
+Rating: 5.0
+Difficulty: 4.0
+Comment: Eric is a great professor and anyone would be lucky to take a class with him. Any student that doesn't see that does not appreciate the value of a true CS education.
+Tags: Inspirational, Hilarious, Beware of pop quizzes
+
+---
+Date: 2025-07-12
+Course: CS265
+Rating: 5.0
+Difficulty: 3.0
+Comment: eric is one of the best professors at hunter college. if you think he is bad than you haven't see other cs professors at hunter. if you cant stay focus is lecture you can go do the homework that he highlights, and if you don't know how to do the homework you can search it up on YouTube and there is probably  some Indian who did it.
+Tags: Hilarious, Beware of pop quizzes, Test heavy
+
+---
+Date: 2025-06-14
+Course: CS265
+Rating: 4.0
+Difficulty: 4.0
+Comment: Schweitzer is fair. 15 quizzes (5 dropped) = 60%, final = 40%. HW mirrors quizzes. You can tell when a quiz is coming. Bad reviews come from ppl who skip or slack (even minimal effort = pass). Quiz avg is low but curved. Correct notation really matters. Prep 20&#8211;30 mins before class + steady effort = likely B or better. Great notes, tricky material.
+Tags: Tough grader, Beware of pop quizzes, Lecture heavy
+
+---
+Date: 2025-06-04
+Course: CSCI265
+Rating: 3.0
+Difficulty: 4.0
+Comment: Entertaining in lectures, but he goes through material quickly, esp. for an esoteric subject. Don't miss a class and don't fall behind, if you're not sure about the current lecture's material, learn it before you get swept up. Also pop quizzes are 60% of the grade, so it's not like you have a choice anyway. If it clicks for you it's elating though.
+Tags: Amazing lectures , Beware of pop quizzes, Lecture heavy
+
+---
+Date: 2025-05-30
+Course: CS265
+Rating: 2.0
+Difficulty: 4.0
+Comment: Taken this guy twice now and I do not recommend. The pop quizzes are 60% of your grade and you need to take them seriously. They're not hard as long as you did the HW or are following along in the class (I didn't do HW and barely followed along). He's ok as a lecturer. You need to take notes or you have to read the textbook (doesn't post the notes)
+Tags: Beware of pop quizzes, Test heavy, Graded by few things
+
+---
+Date: 2025-05-28
+Course: CSCI16000
+Rating: 5.0
+Difficulty: 4.0
+Comment: Professor Eric is one of the best professors I ever had. If you don't like the topic of the class then it might be tough, especially since the grade was mainly based on pop-up quizzes and exams. The class is difficult and he may seem scary but as long as you do the homework assignments on your own and understand it, you should be good.
+Tags: Inspirational, Beware of pop quizzes, Test heavy
+
+---
+Date: 2025-05-25
+Course: CS265
+Rating: 2.0
+Difficulty: 4.0
+Comment: Not the best & not the worst. Class is entirely based on pop quizzes. There are 15 pop quizzes worth 60% of your grade, the lowest 5 get dropped. Final is worth 40% & based on quizzes. Schweitzer's lectures aren't the best, so make sure to read the chapter before class & go to tutoring. A good grade is very possible. Get a perfect quiz average ASAP
+Tags: Get ready to read, Clear grading criteria, Beware of pop quizzes
+
+---
+Date: 2025-04-09
+Course: CS265
+Rating: 1.0
+Difficulty: 5.0
+Comment: He just write the lecture from copying the textbook without explaining. One of my classmate ask what is that mean , then he reread what he wrote at the beginning and ask , don't you understand ? We are here to learn , I know self study also important , but no one teach worse than him , his class base on pop quiz , so be ready come to class everyday
+Tags: Tough grader, Get ready to read
+
+---
+Date: 2025-03-19
+Course: CS160
+Rating: 5.0
+Difficulty: 5.0
+Comment: THIS PROFESSOR IS AMAZING NOT ONLY IS MY MENTAL GETTING RUINED BUT I GET TO LEARN A LOT. THOSE POP QUIZZES GAVE ME THE SCARE THAT I DECIDED TO TAKE HIM AGAIN NEXT SEMESTER.
+Tags: Amazing lectures , Beware of pop quizzes, Graded by few things
+
+---
+Date: 2025-02-21
+Course: CS160
+Rating: 1.0
+Difficulty: 5.0
+Comment: If you weren't religious before this class, pick one and start praying.
+Tags: Tough grader, Beware of pop quizzes, Graded by few things
+
+---
+Date: 2025-01-29
+Course: CSCI150
+Rating: 1.0
+Difficulty: 3.0
+Comment: This dude makes the content way harder than it needs to be. Avoid Eric like the plague.
+Tags: Participation matters
+
+---
+Date: 2024-12-21
+Course: CS160
+Rating: 4.0
+Difficulty: 3.0
+Comment: Eric isn't that bad to be honest. I think it's the pop quizzes that get difficult which is understandable. You just have to study your notes thoroughly as well as studying your homework thoroughly and you should be fine. Plus if he notices that the class isn't doing well he bumps the grades up. Without the curve I would have gotten a C.
+Tags: Beware of pop quizzes, Caring, Lecture heavy
+
+---
+Date: 2024-12-21
+Course: CS160
+Rating: 4.0
+Difficulty: 4.0
+Comment: 10 / 15 quizzes * 60% + Final * 40%. I would be a C if he didn't curve. Try your best in early quizzes, before it gets hard. Quizzes aren't hard if you actually studied. He's not tough on grading to. Read the book, and use the lectures to reaffirm your learning is the best. He makes mistakes, so you need to be careful of what you're copying down.
+Tags: Get ready to read, Beware of pop quizzes, Test heavy
+
+---
+Date: 2024-12-20
+Course: CS160
+Rating: 1.0
+Difficulty: 5.0
+Comment: He makes the class way harder than it needs to be. His lectures are very hard to follow because his handwriting is awful and he constantly makes mistakes. He gives pop quizzes that are worth 60% of your grade. He gives no partial credit. The only redeeming thing about him is that he supposedly curves by dropping the requirements for C down to 60.
+Tags: Tough grader, Beware of pop quizzes, Lecture heavy
+
+---
+Date: 2024-12-20
+Course: CS160
+Rating: 2.0
+Difficulty: 4.0
+Comment: The material itself isn't that hard, but the way he does grading is horrid. 60% are on quizzes that are given out on random. Sometimes it's easy, but sometimes you get points off for a small detail or because of something he mentioned at some point in lecture. At least he drops the lowest 5.
+Tags: Tough grader, Get ready to read
+
+---
+Date: 2024-12-19
+Course: CS160
+Rating: 1.0
+Difficulty: 5.0
+Comment: He makes the content much harder than it needed to be. He also writes the final/quiz questions in the most confusing way possible. Random pop quizzes that are worth 60% of your grade. And he gives little to no partial credit whatsoever. Tutoring helped me pass this class. Avoid Eric like the plague.
+Tags: Tough grader, Beware of pop quizzes, Test heavy
+
+---
+Date: 2024-12-18
+Course: CS160
+Rating: 1.0
+Difficulty: 5.0
+Comment: Don't like his pop quizzes, like the topics are unpredictable.
+Tags: Tough grader, Beware of pop quizzes, Test heavy
+
+---
+Date: 2024-12-18
+Course: CS160
+Rating: 5.0
+Difficulty: 1.0
+Comment: What the skibbidi? This professor was the best, easiest class at Hunter fr fr. very understanding and gives extra credit
+Tags: EXTRA CREDIT, Hilarious, Respected
+
+---
+Date: 2024-12-17
+Course: CS160
+Rating: 5.0
+Difficulty: 2.0
+Comment: I'm shocked to see such low ratings on here. Prof. Schweitzer is very knowledgeable, friendly, and accommodating. 
+
+The class isn't difficult, and the bottom 1/3(!) of quizzes are dropped. If you even bother to read the textbook or pay attention to the lectures you'll pass easily. 
+
+I guess people are used to rock-bottom expectations and no work.
+Tags: Amazing lectures , Hilarious, Beware of pop quizzes
+
+---
+Date: 2024-12-16
+Course: CS160
+Rating: 1.0
+Difficulty: 3.0
+Comment: First ever professor who's out to fail you like the previous comment has said. AVOID, this class with other professor is signifcantly more straight forward, Eric just makes this class more difficult, he's probably reading the reviews right now and laughing, thinking of how he can make the next day of class unbearable.
+Tags: Get ready to read, Beware of pop quizzes, Graded by few things
+
+---
+Date: 2024-12-14
+Course: CS160
+Rating: 1.0
+Difficulty: 5.0
+Comment: this dude is evil bro he is the first professor I've met who is genuinely out to get you just for the fun of it. I've met professors who are bad at teaching but are good people at heart; he's bad at teaching and devoid of soul. Please don't take him if you can.
+Tags: Tough grader, Beware of pop quizzes, Lecture heavy
+
+---
+Date: 2024-12-14
+Course: CS160
+Rating: 1.0
+Difficulty: 5.0
+Comment: he is satan's right hand man
+Tags: None
+
+---
+Date: 2024-12-04
+Course: CS160
+Rating: 1.0
+Difficulty: 5.0
+Comment: extremely odd grading policy, most of your grade depends on pop quizzes that are randomly assigned. I find it annoying when teachers call their tests/quizzes/assigments "easy" and "should be able to do within 2 mins" when they have a whole degree in what their teaching so obviously its easy for them. Avoid at all costs
+Tags: Beware of pop quizzes, Test heavy

@@ -1,0 +1,207 @@
+Professor: Tiziana Ligorio
+School: Hunter College
+Department: Computer Science
+Overall Quality: 3.1 / 5.0
+Would Take Again: 48.1%
+Difficulty: 3.4 / 5.0
+Total Ratings: 118
+
+---
+Date: 2026-02-05
+Course: CS235
+Rating: 1.0
+Difficulty: 5.0
+Comment: Very rude professor. 0 respect for students. Avoid taking.
+Tags: None
+
+---
+Date: 2025-05-27
+Course: CSCI499
+Rating: 4.0
+Difficulty: 2.0
+Comment: It was a pretty fun class. You work on a group project for the whole semester and one ethics assignment. Every week, you also have weekly team reports on the progress of your project. My only complaint is that I wish we had fewer lectures in the beginning and spent more time on the project. Sometimes, the work was a lot, but became more manageable.
+Tags: Group projects, Clear grading criteria, Gives good feedback
+
+---
+Date: 2024-12-27
+Course: CS235
+Rating: 4.0
+Difficulty: 3.0
+Comment: While the lectures can be dry, Prof. Ligorio genuinely cares about students' success. The workload is manageable if you stay on top of it. I found Unstuckstudy and the free textbook really helpful for exam prep.
+Tags: None
+
+---
+Date: 2024-11-13
+Course: CSCI235
+Rating: 5.0
+Difficulty: 2.0
+Comment: i love ligorio. one of the best at hunter. her lectures are very good however her projects were filled with errors and confusing instructions/format. Attendance isn't required but I recommend going because her slides without the lecture can be kind of confusing. i still dont get the hate she gets on here.
+Tags: Amazing lectures , Clear grading criteria, Caring
+
+---
+Date: 2024-06-27
+Course: CS235
+Rating: 1.0
+Difficulty: 4.0
+Comment: very hard to stay engaged in her very boring lectures that she just reads off of. I learned more from yt than her lectures, and projects were left to TAs to help with. I always found the same two people in the lab who were not only unhelpful but also very rude and clueless. Take her class if you can teach yourself the material.
+Tags: Tough grader, Lecture heavy
+
+---
+Date: 2024-05-25
+Course: CSCI235
+Rating: 5.0
+Difficulty: 1.0
+Comment: Her slides are detailed and helps visualize abstract data structures, and explains sample code or theory. i learn a lot just by following the lectures, and that plus the projects made me more confident in solving new problems on the spot. The projects have lots of extra resources and steps you through solving it, some of it takes thinking though
+Tags: Amazing lectures , Clear grading criteria, Accessible outside class
+
+---
+Date: 2024-05-25
+Course: CS235
+Rating: 1.0
+Difficulty: 5.0
+Comment: her slides are really unhelpful and structured poorly. her lectures are boring and not engaging at all. she does not provide review sheets or give you a rough idea of how the tests are going to look. she doesn't provide enough resources to help with projects and tutoring didn't help much either
+Tags: Tough grader
+
+---
+Date: 2024-05-17
+Course: CSCI235
+Rating: 5.0
+Difficulty: 3.0
+Comment: Professor Ligorio is one of the best professors in the CS department. She's very smart, kind and has a great personality. She got her PhD here at Hunter and she knows her material. If you attend her lectures, she explains concepts very clearly and makes them very fun. She also interacts with students and encourages them to do well. I love her :)
+Tags: Amazing lectures , Inspirational, Caring
+
+---
+Date: 2024-03-06
+Course: CS235
+Rating: 5.0
+Difficulty: 1.0
+Comment: Genuinely wants students to do well, explains well in lectures and gives extra credit for doing tech prep.
+Tags: EXTRA CREDIT, Amazing lectures , Accessible outside class
+
+---
+Date: 2024-02-27
+Course: CS235
+Rating: 5.0
+Difficulty: 3.0
+Comment: Prof Ligorio has the best slides out of any CS professors in hunter. She is super well explained and thorough and for the most part, her exams don't really come at any surprise. What a light in the CS department!!!
+Tags: Amazing lectures 
+
+---
+Date: 2024-02-23
+Course: CS235
+Rating: 5.0
+Difficulty: 1.0
+Comment: She's such a nice person! The homeworks are longer than the assignments from 135, but you learn a lot by going to the classes. Expect to spend more time working on the projects.
+Tags: Caring, Accessible outside class
+
+---
+Date: 2024-02-23
+Course: CSCI235
+Rating: 5.0
+Difficulty: 2.0
+Comment: She teaches complicated material well, and her slides during the lecture really help you visualize abstract concepts. I enjoyed her lectures!
+Tags: Amazing lectures , Inspirational, Accessible outside class
+
+---
+Date: 2024-02-22
+Course: CS235
+Rating: 5.0
+Difficulty: 3.0
+Comment: Really good professor and kind. The workload is not too bad as long as you're on top of it!
+Tags: Amazing lectures , Clear grading criteria
+
+---
+Date: 2024-02-22
+Course: CS235
+Rating: 5.0
+Difficulty: 2.0
+Comment: Great lecturer
+Tags: Amazing lectures , Clear grading criteria, Lecture heavy
+
+---
+Date: 2024-02-22
+Course: CS235
+Rating: 5.0
+Difficulty: 3.0
+Comment: Professor Ligorio is genuinely one of the best professors in the computer science department. Her lectures are well-structured, and her grading criteria is very clear. She provides plenty of resources for learning the material outside of her lectures, and all of her slides are also available online in case you do miss a lecture.
+Tags: Clear grading criteria, Inspirational, Respected
+
+---
+Date: 2024-02-22
+Course: CS235
+Rating: 5.0
+Difficulty: 3.0
+Comment: It's a difficult class without a background in CS, there's no way around that. However, if you attend the lectures (which she made for-credit because most don't attend), you will learn! She offers office hours after every class and tutoring online and in-person every weekday. If you actually seek help/information, she makes it easily accessible!
+Tags: Clear grading criteria, Accessible outside class, Online Savvy
+
+---
+Date: 2024-02-22
+Course: CS235
+Rating: 5.0
+Difficulty: 3.0
+Comment: Professor Ligorio genuinely may be the best lecturer in all of Hunter College as her slides are some of the best along with being able to explain all of them clearly. There were a lot of projects, but I found this to be one of the most helpful parts of the class; it allowed for a lot of hands-on learning and made getting a good grade much easier.
+Tags: Amazing lectures , Lots of homework, Caring
+
+---
+Date: 2024-02-22
+Course: CS235
+Rating: 5.0
+Difficulty: 3.0
+Comment: Great teacher and great class. If you approach 235 with an inquisitive mind, you will surely leave far more competent than when you started. She not only explains concepts well, but she instills professionalism within students through projects (timeliness, testing, documentation). Adopt a learning mindset and you will not regret taking this class!
+Tags: Clear grading criteria
+
+---
+Date: 2024-02-22
+Course: CSCI235
+Rating: 5.0
+Difficulty: 3.0
+Comment: Her Lecture is the best lecture I have so far. They always clear and helpful and easy to understand. She used a lot of demonstrate picture to help in explaining stuffs and concepts easier for students to understand unlike other professors and just put a bunch of words. If you go to her lecture everything will be easy. Highly recommend taking her.
+Tags: Amazing lectures , Inspirational, Caring
+
+---
+Date: 2024-01-25
+Course: CSCI235
+Rating: 4.0
+Difficulty: 3.0
+Comment: She is very organized, she has her own slides she posts online, lots of resources. Projects are hard enough and most of the grade is based on projects. Best CS professor I had so far.
+Tags: Amazing lectures 
+
+---
+Date: 2023-12-23
+Course: CS235
+Rating: 3.0
+Difficulty: 4.0
+Comment: Helpful visual slides, questions on quizzes are worded confusingly at times, gives an extra credit opportunity, will not round up no matter how close you are to a higher letter grade, project specs occasionally are incomplete or require changes upon release.
+Tags: EXTRA CREDIT, Clear grading criteria
+
+---
+Date: 2023-11-03
+Course: CS235
+Rating: 4.0
+Difficulty: 3.0
+Comment: Not as difficult as a lot of people say, her lectures are super easy to understand and all of her slides are posted online. TAs and tutoring are often your best friend with the homework assignments, and she lets you have cheat sheets for exams.
+Tags: Clear grading criteria, Lots of homework, Lecture heavy
+
+---
+Date: 2023-05-29
+Course: CSCI235
+Rating: 5.0
+Difficulty: 3.0
+Comment: Easy class, just show pay attention, dont use chatgpt, you wont learn
+Tags: Clear grading criteria, Lots of homework
+
+---
+Date: 2023-04-03
+Course: CS235
+Rating: 1.0
+Difficulty: 4.0
+Comment: AVOID TAKING PROFESSOR LIGORIO AT ALL COSTS SHE DOES NOT CARE ABOUT HER STUDENTS!!!! Her lectures are dull and lackluster and leaves all the work to the poor TAs to deal with confused students. CSCI235 tutoring often gets packed and there are no open seats at times.
+Tags: Tough grader, Get ready to read, Lots of homework
+
+---
+Date: 2023-03-04
+Course: CS235
+Rating: 2.0
+Difficulty: 1.0
+Comment: useless professor who would clearly rather be doing anything else. there are weekly emails from her condemning the entire class for not understanding her notes, whereas her project specifications are often incomplete, or you can't submit anything because there's an error on her part. material is teach yourself and the class is pretty easy otherwise
+Tags: Hilarious

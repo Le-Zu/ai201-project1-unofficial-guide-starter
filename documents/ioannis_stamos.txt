@@ -1,0 +1,207 @@
+Professor: Ioannis Stamos
+School: Hunter College
+Department: Computer Science
+Overall Quality: 4.3 / 5.0
+Would Take Again: 100.0%
+Difficulty: 3.7 / 5.0
+Total Ratings: 25
+
+---
+Date: 2026-05-29
+Course: CSCI335
+Rating: 5.0
+Difficulty: 2.0
+Comment: This baddie needs to teach every software and analysis class cuz his slides literally have everything and he makes the exam easy to follow from that. He's also lowkey funny too but frfr baddie, love him!
+Tags: EXTRA CREDIT, Hilarious, Caring
+
+---
+Date: 2026-05-28
+Course: CSCI335
+Rating: 5.0
+Difficulty: 4.0
+Comment: Absolutely incredible professor! He relies on slides but will give examples during lectures. If you do all of your projects/homework and quizzes, and try your best on your exams you're guaranteed to pass.
+Tags: Clear grading criteria, Hilarious, Lecture heavy
+
+---
+Date: 2026-05-28
+Course: CSCI335
+Rating: 5.0
+Difficulty: 4.0
+Comment: Best professor for 335, helped a lot with his office hours and all. Exams were curved +20% on average, do your projects and homework and you'll do well :)
+Tags: Get ready to read, Lots of homework, Test heavy
+
+---
+Date: 2026-05-28
+Course: CSCI335
+Rating: 5.0
+Difficulty: 2.0
+Comment: His slides are a bit hard to understand so you might need to watch videos for the visuals but he's the most lenient cs professor at hunter. huge curve and very chill. #thechiller
+Tags: EXTRA CREDIT, Clear grading criteria
+
+---
+Date: 2026-05-28
+Course: CSCI335
+Rating: 5.0
+Difficulty: 5.0
+Comment: The chillest dude ever, hard class though, you get extra credit for attending classes and he is the most chill guy #thechiller.
+Tags: Participation matters, EXTRA CREDIT, Caring
+
+---
+Date: 2023-06-02
+Course: CSCI335
+Rating: 5.0
+Difficulty: 3.0
+Comment: Stamos is a caring professor and explained concepts pretty well with visuals. The projects weren't super difficult either he was genuinely very helpful outside of class. 335 is a hard course in general but studying on your own before exams and understanding the material is a must and the exams were mostly theoretical stuff too
+Tags: Caring, Graded by few things, Accessible outside class
+
+---
+Date: 2023-05-29
+Course: CSCI335
+Rating: 5.0
+Difficulty: 2.0
+Comment: The professor is kind, funny, and very knowledgeable. He responds quickly via the class discussion board and is very helpful during his office hours. The class material is a little heavy, but he is able to illustrate difficult concepts during lectures. The projects and deadlines were all reasonable as long as you start early.
+Tags: Clear grading criteria, Respected, Accessible outside class
+
+---
+Date: 2021-12-25
+Course: CSCI335
+Rating: 5.0
+Difficulty: 3.0
+Comment: Hes pretty nice. Good lecturer and doesnt move on without feedback. He is also very quickly accessible on piazza. He pretty much gives max time on all project so start ASAP and dont except extensions. Tests are pretty heavy but he curves them pretty generously.
+Tags: Accessible outside class, Get ready to read, Clear grading criteria
+
+---
+Date: 2019-12-25
+Course: CSCI335
+Rating: 4.0
+Difficulty: 4.0
+Comment: Great professor. If you show you are trying, you will get a decent grade. His curve is pretty generous. The projects can take a long time to do but they aren't unreasonable and he gives you 2 weeks to do them. He is very helpful if you go to his office hours or speak to him after class. Also very helpful on piazza. Would certainly take again!
+Tags: Accessible outside class
+
+---
+Date: 2019-07-07
+Course: CSCI335
+Rating: 5.0
+Difficulty: 4.0
+Comment: Prof Stamos is such a nice guy. He extended the deadlines for all 5 projects. Curved the exam grades too. Everything on the exams were directly from the powerpoints.
+Tags: Lots of homework, Get ready to read, Clear grading criteria
+
+---
+Date: 2017-05-31
+Course: CSCI335
+Rating: 4.0
+Difficulty: 4.0
+Comment: This class is not easy but Stamos is a great lecturer. He goes through the lectures quickly but if you ask him a question, he'll stop to help. Exams are pretty difficult. He is vague on telling you what to expect from the exams so you really need to study. There is an oral presentation that's worth 10%. Assignments are worth 50% so do well on those
+Tags: ACCESSIBLE OUTSIDE CLASS, Clear grading criteria, Amazing lectures
+
+---
+Date: 2016-12-03
+Course: CSCI335
+Rating: 4.0
+Difficulty: 4.0
+Comment: Stamos is a good Professor who knows the material well, but he tends to go a little too fast during lectures.  I was familiar with a good portion of the material already, so this was not a problem, but it may be for others.  He keeps you busy with 5 programming assignment and the tests are pretty tough.  Be prepared to do some work.
+Tags: LOTS OF HOMEWORK, Clear grading criteria, LECTURE HEAVY
+
+---
+Date: 2016-10-16
+Course: CSCI493
+Rating: 5.0
+Difficulty: 4.0
+Comment: I really admire people who are passionate about their career, and Stamos is definitely one of those people. Not even half the semester is done, yet I already know that this is a great worthwhile course.  Even if I fail, I am glad that I took this class. There is a lot to learn, and your eyes will open up to the world of vision. Pun intended.
+Tags: Respected, Caring, LECTURE HEAVY
+
+---
+Date: 2015-12-24
+Course: CSCI335
+Rating: 5.0
+Difficulty: 3.0
+Comment: His lectures are very fun, and it's clear that he knows the material like the back of his hand. He assigns 5 programming assignments, back to back. But the upside to that is he assigns virtually no theory/proof homeworks. The tests however are tough, simply due to the amount of material of the class. Serious study is required for the class.
+Tags: None
+
+---
+Date: 2015-05-21
+Course: CSCI335
+Rating: 3.5
+Difficulty: 4.0
+Comment: He is a great professor and has an extremely nice curve. so if you do well you can defiantly get an A. if you do all assignments and get 60-70 then you at least can get a C. but he grades on curve both exams and final grade is also curved. Very nice and wants his students to pass. he will also if you ask take late assignments
+Tags: None
+
+---
+Date: 2013-06-23
+Course: CSVISION
+Rating: 5.0
+Difficulty: 3.0
+Comment: Outstanding professor! Hunter College needs more professors like Stamos. He is an expert in his field, does a lot of research, and is very helpful. There are so many things that you can learn from him. I also took his CS335 class and was very satisfied. I wish he could teach more electives.
+Tags: None
+
+---
+Date: 2012-07-12
+Course: CSCI493
+Rating: 5.0
+Difficulty: 3.0
+Comment: I took him for his vision seminar; outstanding professor, very clear, really interested in the subject, good feedback. Can explain complex ideas. Relatively easy grader, easy to talk to. Good slides. Actually reads and understands your code. Accepts late work without penalty (even if it's really late). Likes a talkative class.
+Tags: None
+
+---
+Date: 2008-12-31
+Course: CSCI235
+Rating: 4.5
+Difficulty: 4.0
+Comment: Great Prof. Very clear and helpful. His exams and assignments are very difficult, but he makes himself available and open to questions. Highly recommended.
+Tags: None
+
+---
+Date: 2006-12-06
+Course: CCSCI120
+Rating: 2.0
+Difficulty: 4.0
+Comment: His quizes are rediculous, he gives like 7 quizes and says he doesnt give homework so he gives us quizes instead..they are very hard, fillins, and short answer, you need to know every single detail for the quizes
+Tags: None
+
+---
+Date: 2006-12-05
+Course: CSCI120
+Rating: 4.0
+Difficulty: 3.0
+Comment: Liked him a lot, is a pretty funny guy. If you know a bit more than avg about comps you'll be fine if you read and study. Class is mostly Power Point but you are responsible for all material not covered in class. 7 quizzes, 3 tests, lowest quiz grade dropped. One test had a lot of extra points. Used online companion more than I opened the textbook.
+Tags: None
+
+---
+Date: 2006-05-26
+Course: CSCI150
+Rating: 3.0
+Difficulty: 5.0
+Comment: you have to learn a lot of material on your own to do well on the assignments (and there are lots of those), the exams are HARD- first averaged 41 and the final like a 30... not sure if he curves but you have a bunch of extra credits, they are NOT easy at all. If you want an easy A, not him, he's cool but expects way too much.
+Tags: None
+
+---
+Date: 2005-12-22
+Course: CS265
+Rating: 4.0
+Difficulty: 4.0
+Comment: His homeworks are long and tough.  Tests are not too bad except for his Final which is a killer.  You do learn a lot in his class and at the end most will be happy because he is a generous grader.
+Tags: None
+
+---
+Date: 2005-12-12
+Course: CSCI265
+Rating: 3.5
+Difficulty: 3.0
+Comment: A nice guy, but his lectures are boring and sometimes it is hard to keep awake in his class. homeworks are good because they make you understand the stuffz.
+Tags: None
+
+---
+Date: 2005-11-21
+Course: CS150
+Rating: 4.0
+Difficulty: 4.0
+Comment: A very intelligent and difficult teacher. If you are looking for easy, get another major.
+Tags: None
+
+---
+Date: 2004-12-01
+Course: 150
+Rating: 3.0
+Difficulty: 4.0
+Comment: his accent kinda makes it a little hard to understand, but 150 is really hard. A lot of stuff. Other than that, he's a really cool guy.
+Tags: None

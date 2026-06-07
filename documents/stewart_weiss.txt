@@ -1,0 +1,215 @@
+Professor: Stewart Weiss
+School: Hunter College
+Department: Computer Science
+Overall Quality: 2.9 / 5.0
+Would Take Again: 25.8%
+Difficulty: 4.2 / 5.0
+Total Ratings: 75
+
+---
+Date: 2024-03-21
+Course: CSCI340
+Rating: 3.0
+Difficulty: 4.0
+Comment: Lecture can be pretty boring sometimes but he posts all the slides. Not much homework at all, maybe about 3-4 homework assignments the whole semester but you have to study pretty often for pop quizzes. Provided us with a list of topics that would be on the final so that was nice.
+Tags: Beware of pop quizzes, Lecture heavy, Accessible outside class
+
+---
+Date: 2024-02-23
+Course: CSCI49366
+Rating: 5.0
+Difficulty: 5.0
+Comment: In a smaller class, he has time to focus on every student's needs and his lectures are still amazing. His standards are high, but Professor Weiss is very detail-oriented and provides everything needed for students like me to succeed. Of course, that means you should put in a heavy amount of effort in his class, to achieve a high standard for a job.
+Tags: Tough grader, Get ready to read, Caring
+
+---
+Date: 2024-01-23
+Course: CSCI340
+Rating: 3.0
+Difficulty: 5.0
+Comment: Taken in Fall. Clear grading criteria and test questions were pretty fair. There was an incredible curve at the end that makes it hard to complain. That being said, lectures had too many people in a small room w/o ventilation. Surprise quizzes worth 20% of grade and there was a lot of information presented w/o specifying what was important.
+Tags: Tough grader, Beware of pop quizzes, Test heavy
+
+---
+Date: 2023-12-29
+Course: CSCI340
+Rating: 4.0
+Difficulty: 3.0
+Comment: He is teaching this course for the last time and I think I graded him unfairly. I passed with C and the grading criteria was not bad. Although he could prepare us better for exam, but if you do work and did reasonably well then you may pass after studying alot. however still he is a professor that's just straight up tough.
+Tags: Tough grader, Get ready to read, Beware of pop quizzes
+
+---
+Date: 2023-11-05
+Course: CSCI340
+Rating: 1.0
+Difficulty: 5.0
+Comment: Reads of slides so a grand waste of time as it's something anybody can do at home
+Pop quizzes which match the difficulty of the exam
+Irritating true or false questions that are 30 percent of ur exam grade or 90 percent of ur quiz grade and rely on you to know his million slides word for word, hard to pass unless you can memorize his 300 slides
+Tags: None
+
+---
+Date: 2023-10-26
+Course: CSCI340
+Rating: 2.0
+Difficulty: 5.0
+Comment: he is really hard. But I guess he is okay as a professor. I do not recommend you taking him. Since is really hard to cram these material and even if you did. The exam is really tricky. Good luck to those who are failing. I know I'm failing. And I study like 3-4 hours weekly.
+Tags: Tough grader, Beware of pop quizzes
+
+---
+Date: 2023-10-19
+Course: CSCI340
+Rating: 1.0
+Difficulty: 5.0
+Comment: Run!!!!!
+Tags: Tough grader, Lecture heavy, Test heavy
+
+---
+Date: 2023-07-17
+Course: CSCI340
+Rating: 1.0
+Difficulty: 5.0
+Comment: Took this course two years ago, so here's my input, this guy is harder than Shankar, literally hardest professor at Hunter. Don't cheat because he's very smart and he will know about it. OS is supposed to be definition based but he goes in depth about hardware, yea all my friends dropped and took in summer with Wine. Good Luck!
+Tags: Tough grader, Lots of homework, Lecture heavy
+
+---
+Date: 2023-07-11
+Course: CSCI49366
+Rating: 5.0
+Difficulty: 4.0
+Comment: Dr. Weiss is such an amazing professor. He really loved to teach, and I enjoyed learning about unix programming! I am kind of surprised people are saying bad things about Dr. Weiss. I guess some people can't step up to the challenge!
+Tags: Clear grading criteria, Inspirational, Respected
+
+---
+Date: 2022-05-28
+Course: CSCI340
+Rating: 1.0
+Difficulty: 5.0
+Comment: Slides are overly convoluted, and he just narrates them. Heavy on definitions and weak on applications. Your gpa will hang on his obscure true/false and a couple of random solving questions he invents from some topic. Class itself feels like a complete gamble 50/50 shot or less, and sadly not a conceptual learning experience. Curves a bit but AVOID
+Tags: Tough grader, Beware of pop quizzes, Test heavy
+
+---
+Date: 2022-05-25
+Course: CSCI340
+Rating: 3.0
+Difficulty: 5.0
+Comment: In the first half of the semester I was hanging on a thread no pun attended but needed to pass for the cashe no pun attended. I then studied hours/days and finally passed the final to earn a C. Its a tough class and conceptual base. The tests/quizzes/hw are extremely hard. If you study everyday for this class you may pass.
+Tags: Tough grader, Beware of pop quizzes, Lecture heavy
+
+---
+Date: 2022-05-23
+Course: CSCI340
+Rating: 4.0
+Difficulty: 4.0
+Comment: He's good. Accessible outside class and takes questions during lecture. He does read off slides but given its a concept based course there really isn't much else he can do. Homework's are hard and more of a gamble than a learning experience. Quizzes are difficult and given too little time. Exams are long and difficult but based off his notes.
+Tags: Get ready to read, Test heavy, Accessible outside class
+
+---
+Date: 2022-05-20
+Course: CSCI340
+Rating: 3.0
+Difficulty: 5.0
+Comment: Tricky exams. Beware.
+Tags: None
+
+---
+Date: 2022-05-18
+Course: CSCI340
+Rating: 1.0
+Difficulty: 4.0
+Comment: weiss is a massive piece of crap.  terrible professor. Too bad you can't avoid him for 340, I highly highly highly recommend you epermit 340 at a dif CUNY
+Tags: None
+
+---
+Date: 2022-05-13
+Course: CSCI340
+Rating: 1.0
+Difficulty: 5.0
+Comment: Just lacks basic human decency.  Basically an old man incel.  The one good thing is that he goes on sabbatical soon, so at least some students get to avoid him.
+Tags: None
+
+---
+Date: 2022-03-21
+Course: CSCI340
+Rating: 1.0
+Difficulty: 5.0
+Comment: All you need to know
+- Quizzes given with very little time (6 min)
+- Never accepting accountability for actions (email)
+- Disrespectful and ignorant (Piazza)
+- Teaching style is poor (reads off slides)
+- Midterm details have not been discussed 
+- Unbearable face (Bold, Short)
+Tags: None
+
+---
+Date: 2022-03-03
+Course: CSCI340
+Rating: 1.0
+Difficulty: 4.0
+Comment: There are two types of Weiss reviews on this site, the one where Weiss wrote it himself and gave himself 5 stars and then the reviews his students wrote.  He is such a terrible teacher and has zero passion for teaching.  Avoid if possible.  The class is like being in jail.
+Tags: None
+
+---
+Date: 2021-10-06
+Course: CSCI340
+Rating: 5.0
+Difficulty: 5.0
+Comment: 2 types of students take Weiss classes: 1. Students who care about learning, can follow directions, and are ready to work 2. Students who wont do the work then blame Weiss for a bad grade The latter will give this comment a thumbs down. If thats you, dont take his classes. If youre in the former, his classes will be among your best
+Tags: Lots of homework, Accessible outside class, Clear grading criteria
+
+---
+Date: 2021-05-23
+Course: CSCI360
+Rating: 1.0
+Difficulty: 5.0
+Comment: He is a tough grader , He does't c are if you do good or no ? he just cares about the exams which he makes very hard
+Tags: Test heavy, Lecture heavy, Tough grader
+
+---
+Date: 2021-05-23
+Course: CSCI340
+Rating: 1.0
+Difficulty: 5.0
+Comment: His slides are unclear and complicated. , i have learned most of the things from youtube , never take him for CS340
+Tags: Beware of pop quizzes, Lecture heavy, Tough grader
+
+---
+Date: 2021-05-22
+Course: CSCI340
+Rating: 1.0
+Difficulty: 5.0
+Comment: Try to take someone else for CSCI 435. 88% of your grades come from test &amp; quiz. They are not easy at all. You have to study ALOT. You will read a lot of slides. If you have to take him, don't take other tough courses with 340, you wont have enough time or energy. You will pass this course only if you study A LOT.
+Tags: Test heavy, Clear grading criteria, Lecture heavy
+
+---
+Date: 2021-04-28
+Course: CS335
+Rating: 1.0
+Difficulty: 5.0
+Comment: Specifically makes questions on quizzes and exams as convoluted and unclear as possible. This is as much a reading comprehension class as it is a CS class. It feels like he hates his students. 100% would not recommend.
+Tags: Get ready to read, Skip class? You won't pass., Beware of pop quizzes
+
+---
+Date: 2019-11-07
+Course: CSCI49365
+Rating: 1.0
+Difficulty: 4.0
+Comment: Won't listen, won't help, won't compromise. Lectures are boring. His notes are unclear and over-complicated. Will be annoyed if somebody will ask him a question. If you have a passion for parallel programming this guy has a high potential to change your mind. Have fun. You are on your own.
+Tags: Skip class? You won't pass., Lecture heavy, Tough grader
+
+---
+Date: 2019-04-22
+Course: CS335
+Rating: 1.0
+Difficulty: 4.0
+Comment: I was about to change my major because of him. you need to do EVERYTHING by yourself, you need to forget that you have a professor. His review questions are prank. there is no review before the tests. His project are unsolvable. he will curve in the end of the semester. there is no extra credit. good luck with the pop quizzes.
+Tags: Test heavy
+
+---
+Date: 2019-04-22
+Course: CS335
+Rating: 1.0
+Difficulty: 4.0
+Comment: I was about to change my major because of him. he is the worst ...
+Tags: Test heavy

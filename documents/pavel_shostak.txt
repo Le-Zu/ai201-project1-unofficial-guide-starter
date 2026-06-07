@@ -1,0 +1,211 @@
+Professor: Pavel Shostak
+School: Hunter College
+Department: Computer Science
+Overall Quality: 2.7 / 5.0
+Would Take Again: 39.2%
+Difficulty: 3.9 / 5.0
+Total Ratings: 159
+
+---
+Date: 2026-05-26
+Course: CS340
+Rating: 2.0
+Difficulty: 3.0
+Comment: You will learn nothing like his other courses. He wants you to remember phrases and then spit it back out on an exam. Just don't take him :) if you want better professors consider Stanley Wine, Sven (Even though he is harder you will actually learn career skills [Actual meaningful projects to understand the OS])
+Tags: Lecture heavy, Test heavy, Graded by few things
+
+---
+Date: 2026-05-26
+Course: CSCI34000
+Rating: 4.0
+Difficulty: 3.0
+Comment: I'm not sure why Shostak is rated so low. He's extremely straight forward with concepts and makes them rudimentary for easy understanding. Make sure you write down and memorize his definitions. His exams , 90% of the grade, are strict and he looks for specific words/terms in your answers. Just listen in class, understand the concepts, and it's easy
+Tags: Clear grading criteria, Hilarious, Test heavy
+
+---
+Date: 2026-04-10
+Course: CS340
+Rating: 1.0
+Difficulty: 4.0
+Comment: Stay away from him
+Tags: Tough grader, Graded by few things
+
+---
+Date: 2026-02-04
+Course: CS260
+Rating: 5.0
+Difficulty: 3.0
+Comment: just attend his lectures and take notes and you'll do amazingly in exams
+Tags: Participation matters, Hilarious, Accessible outside class
+
+---
+Date: 2026-01-12
+Course: CS260
+Rating: 1.0
+Difficulty: 5.0
+Comment: If you have accomodations, dont take him. hes very difficult when it comes to accommodations
+Tags: Tough grader, Lecture heavy
+
+---
+Date: 2026-01-06
+Course: CS260
+Rating: 1.0
+Difficulty: 5.0
+Comment: Too many exam versions, some easier than others. got done dirty for final
+Tags: None
+
+---
+Date: 2025-12-29
+Course: CSCI26000
+Rating: 1.0
+Difficulty: 5.0
+Comment: Not accessible by email and rarely checks messages.
+Tags: Test heavy, Graded by few things
+
+---
+Date: 2025-12-28
+Course: CS260
+Rating: 5.0
+Difficulty: 3.0
+Comment: First off, I'm not a great student by any means, but I got full scores on both my midterm and final. 
+
+Go to class every day, take notes, and you'll get an easy A. He repeats prev year questions too, although I was not lucky enough to get any in my version of exam. Still easy as the questions were mostly taken from his lecture notes.
+Tags: Tough grader, Amazing lectures , Test heavy
+
+---
+Date: 2025-07-17
+Course: CS260
+Rating: 4.0
+Difficulty: 3.0
+Comment: Lectures are not mandatory, but you need to attend them if you want to pass. I wouldn't say his class is particularly difficult, but he likes answers written his way, and that's something you find out in lecture.
+
+Just attend lectures, review once in a while, and you're good to go. He's a nice dude and tries to build foundational understanding.
+Tags: Lecture heavy, Test heavy, Graded by few things
+
+---
+Date: 2025-05-30
+Course: CS49365
+Rating: 1.0
+Difficulty: 5.0
+Comment: Professor Shostak is probably the worst professor I've ever taken. Period. This class was the first time he taught it -- had no textbook, only did lectures, & misguided the entire class. The grade was split only the final & midterm. He made the final way too difficult and misled us on what topic to study. DO NOT TAKE THIS CLASS! YOU WILL FAIL!
+Tags: Tough grader, Lecture heavy, Test heavy
+
+---
+Date: 2025-05-28
+Course: CSCI340
+Rating: 5.0
+Difficulty: 3.0
+Comment: he breaks everything down to elementary terms. if u dont understand, go to his office hours. half of these students complaining never used the help shostak offered. hes super caring, understanding, and not condescending. just ask him questions, project questions too. tests were fair. ur only graded on the midterm, project, and final.
+Tags: Caring, Lecture heavy, Graded by few things
+
+---
+Date: 2025-05-27
+Course: CS340
+Rating: 4.0
+Difficulty: 4.0
+Comment: If you skip, you're probably going to fail. You need to know how to do definitions: [noun] is a [noun] that does [verb]. Copy and memorize all of them (use quizlet or anki) or you'll fail. Additionally, he'll often show tracing and questions on the board: they'll end up on the final/midterm. Start the project early or you're cooked.
+Tags: Graded by few things
+
+---
+Date: 2025-05-27
+Course: CS340
+Rating: 1.0
+Difficulty: 4.0
+Comment: The reviews below have to be some type of joke or written by Shostak himself. There is no emphasis on &#8220;understanding&#8221; the material. He literally stated multiple times throughout the sem to know his definitions because his graders may not accept other ones
+Tags: None
+
+---
+Date: 2025-05-26
+Course: CSCI340
+Rating: 4.0
+Difficulty: 3.0
+Comment: I'm terrible at memorization, which is supposedly required for this class; all you need is to actually understand the material, and you'll do well. He had great office hours, and he was willing to explain where we went wrong on the midterm to help us prepare for the final. He's funny and is willing to repeat himself in lectures if asked.
+Tags: Hilarious, Lecture heavy, Accessible outside class
+
+---
+Date: 2025-05-25
+Course: CS340
+Rating: 5.0
+Difficulty: 2.0
+Comment: took for 260 and 340. good lecturer, would NOT recommend skipping his classes, he breaks things down fairly simply. if you simply parrot his definitions then don't expect to do great because exams test you on your actual understanding of the subject including 260 materials. overall not difficult, very fair exams, would take again.
+Tags: Amazing lectures , Test heavy
+
+---
+Date: 2025-05-17
+Course: CS340
+Rating: 1.0
+Difficulty: 5.0
+Comment: Some of his teaching methods are just unnecessarily cruel, like giving the project autograder(that doesn't specify which tests you are failing) days before the due date while everyone is studying for finals and trying to memorize the 100 definitions he gave us. I would say avoid him for 340, but it sounds like the next guy isn't much better
+Tags: None
+
+---
+Date: 2025-03-03
+Course: CS260
+Rating: 4.0
+Difficulty: 2.0
+Comment: Funny guy. Lectures are good -- his accent makes it better. Your grade is mostly determined by homework which is graded very roughly and tests (which are almost carbon copies of previous tests) so do with that information what you will.
+Tags: Tough grader, Hilarious, Test heavy
+
+---
+Date: 2025-02-20
+Course: CS260
+Rating: 4.0
+Difficulty: 2.0
+Comment: You can only miss out on so many lectures until it starts to hurt your grades- what he emphasizes in class matters for exams. Avoid any pseudoinstruction.Issue is & final are the main parts of your grade & homework is 20%. If you don't do well on the midterm, you can choose for the final to replace it but can't take that back if you fail the final.
+Tags: Lecture heavy, Test heavy, Graded by few things
+
+---
+Date: 2024-12-30
+Course: CS2600
+Rating: 5.0
+Difficulty: 3.0
+Comment: generally he is a good professor and class is interesting, just follow instructions for the and youd get a decent grade for hw. His grading system kinda tough though, weight of the exams are very heavy and ends up being a good chunk of your final grade. Just remember to never use pesudoinstruction in his class, basically anything he doesnt covers.
+Tags: Tough grader, Hilarious
+
+---
+Date: 2024-12-29
+Course: CS2600
+Rating: 5.0
+Difficulty: 2.0
+Comment: Seriously an easy A if you show up, take notes of everything verbatim & are good w memorization. He's very willing to answer questions in class and office hours. Literally repeats things that are not allowed in the course all the time and ppl who don't attend class or can't read instructions are shocked when their points r docked...
+Tags: Lecture heavy
+
+---
+Date: 2024-12-29
+Course: CS260
+Rating: 2.0
+Difficulty: 3.0
+Comment: He doesn't curve at all. I was very close to passing but he gave me a D anyway. Also, he doesn't even respond to Slack messages after he submits the final grade.
+Tags: Tough grader, Test heavy, Graded by few things
+
+---
+Date: 2024-12-20
+Course: CS260
+Rating: 5.0
+Difficulty: 2.0
+Comment: Great professor who not only does a good job teaching the material, but also encourages participation and questions. He is unbelievably patient with the questions and has no problem going back to previous slides. Only way to succeed is to come to every lecture because he doesn't post slides online. Only the ones who don't show up complain.
+Tags: Caring, Lecture heavy, Graded by few things
+
+---
+Date: 2024-11-19
+Course: CS260
+Rating: 4.0
+Difficulty: 4.0
+Comment: Professor Shostak has a unique teaching style - if you stay engaged and take detailed notes, you can do well. The homeworks are interesting, and Unstuckstudy was a helpful study tool alongside the textbook. Overall, an accessible professor if you put in the effort.
+Tags: None
+
+---
+Date: 2024-11-13
+Course: CS260
+Rating: 5.0
+Difficulty: 4.0
+Comment: took him over the summer. material was honestly very difficult and I was scared he would be bad because of his RMP reviews but he was honestly a really good professor (kinda funny too). He makes sure everyone understands the lectures and wants to answer all questions. Grade was mostly Midterm + Final, and he lets you replace midterm w/ final exam
+Tags: Clear grading criteria, Respected
+
+---
+Date: 2024-07-09
+Course: CS260
+Rating: 3.0
+Difficulty: 3.0
+Comment: good prof
+Tags: Tough grader, Test heavy

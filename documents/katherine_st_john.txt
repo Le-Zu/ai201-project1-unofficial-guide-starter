@@ -1,0 +1,211 @@
+Professor: Katherine St. John
+School: Hunter College
+Department: Computer Science
+Overall Quality: 2.3 / 5.0
+Would Take Again: 30.6%
+Difficulty: 3.7 / 5.0
+Total Ratings: 61
+
+---
+Date: 2026-05-24
+Course: CS127
+Rating: 3.0
+Difficulty: 3.0
+Comment: At the beginning of the class, everything can feel overwhelming if this is your first time taking a CS class. You cannot just show up and expect everything to go well. You personally have to put in the effort and practice to earn a good grade. She will answer your questions after class and goes over practice questions for the final exam.
+Tags: Lots of homework, Lecture heavy, Accessible outside class
+
+---
+Date: 2026-02-11
+Course: CS127
+Rating: 4.0
+Difficulty: 3.0
+Comment: She is a good CS professor, even though at the beginning the work can seem overwhelming since you have to schedule code reviews and quizzes. But she offers a lot of extra credit.
+Tags: EXTRA CREDIT, Clear grading criteria, Accessible outside class
+
+---
+Date: 2026-02-03
+Course: CSCI12700
+Rating: 1.0
+Difficulty: 5.0
+Comment: Work was tedious as you were expected to do homework every other day as well as code reviews and quizzes, much of the work was also barely covered in the lectures so you were pretty much on your own much of the time, I wanted computer science to be my major but since I really struggled in this class I'm thinking about switching to something else.
+Tags: Test heavy
+
+---
+Date: 2026-01-10
+Course: CS127
+Rating: 1.0
+Difficulty: 5.0
+Comment: She accused me cheating on a hw which I actually missed cause I was trying to beat Demon of Hatred in Sekiro the entire day when it was due. It seems like that demon of hatred also possed her cause she didn't bother to give me 0.5 on the final to round me up to a A.
+Tags: None
+
+---
+Date: 2026-01-06
+Course: CS127
+Rating: 1.0
+Difficulty: 5.0
+Comment: She treated this class to filter out the students in the major. Will make you switch majors. She wouldn't even round up students to a 0.5 and would rather email them the entire student code of conduct. Her main concern is being paranoid about student cheating on 5 lines of coding hw.
+Tags: Tough grader
+
+---
+Date: 2026-01-06
+Course: CSCI127
+Rating: 1.0
+Difficulty: 3.0
+Comment: She is the reason why I got a lot more anxiety. She seemed nice at first but after time went on by and she reported almost the entire class for cheating on a homework in which some students didn't cheat on, my perspective on her changed. She didn't even hear the students out and she's actually rude 
+Just avoid her
+Tags: None
+
+---
+Date: 2025-12-21
+Course: CSCI12700
+Rating: 1.0
+Difficulty: 5.0
+Comment: This was the most stressful and frustrating class I took in my four years of college.
+There were assignments due almost every day, creating constant pressure.
+Even if you had an A, scoring below 60% on the final meant failing the course.
+The professor also reported students for AI use, which caused significant anxiety.
+Tags: Lots of homework, Test heavy
+
+---
+Date: 2025-12-19
+Course: CS127
+Rating: 1.0
+Difficulty: 5.0
+Comment: AVIOD,STUDY AND TAKE THE TEST OUT. she is so extra and paranoid. Her lectures don't teach anything. Was this easy coding hw which is really simple. She reported students for cheating for it even tho no one is cheating for this simple code. directly reported over 100 students for no reason. Also uses trick questions to confuse students on exams.
+Tags: Lots of homework
+
+---
+Date: 2025-12-18
+Course: CS127
+Rating: 1.0
+Difficulty: 5.0
+Comment: This professor and her TA's are so rude. I wish I withdrew sooner, and she constantly cares more about students cheating than actually teaching the material. Avoid.
+Tags: Tough grader, Lecture heavy
+
+---
+Date: 2025-12-15
+Course: CSCI12700
+Rating: 1.0
+Difficulty: 5.0
+Comment: BEWARE BEWARE BEWARE! I wish I took the test out. Her material is outdated and the lectures (in my opinion) are a mess. Her TA's are the only good things in this class. She's just a mess.. can't communicate properly and reports majority of the class for AI.
+Tags: Lots of homework, Lecture heavy, Test heavy
+
+---
+Date: 2025-12-11
+Course: CS127
+Rating: 1.0
+Difficulty: 5.0
+Comment: Just take the test out. The class is so poorly structured. The lectures don't teach you anything. And you have to revolve your life around the class. Hw due every day, code review and quizzes every week. Flagged almost the entire class for ai and directly reported them. Too lazy to solve them internally.
+Tags: Lots of homework
+
+---
+Date: 2025-11-08
+Course: CS127
+Rating: 1.0
+Difficulty: 5.0
+Comment: being in her class is like being in hell. not even exaggerating my goodness&#8230;
+Tags: Lots of homework, Lecture heavy, Test heavy
+
+---
+Date: 2025-11-04
+Course: CS127
+Rating: 1.0
+Difficulty: 5.0
+Comment: Don't take this class unless you want to be stressed and ruin your mental health. To all current students in her class- May God be with you. I don't wish this on anyone. Please avoid this professor at all costs!
+Tags: Get ready to read, Lots of homework, Test heavy
+
+---
+Date: 2025-11-03
+Course: CS127
+Rating: 1.0
+Difficulty: 5.0
+Comment: Will make you want to switch majors lol. Don't take this class it's genuinely insane
+Tags: Lots of homework, Test heavy
+
+---
+Date: 2025-11-02
+Course: CSCI127
+Rating: 1.0
+Difficulty: 5.0
+Comment: Worst class ever. She doesn't know how to teach, it's very dense. First day of lecture you're supposed to know about turtle? This is a class to be beginner friendly and yet it was quite the opposite. Had to drop because of the insane workload. It doesn't matter if you do your HW/CW, fail the final exam, fail the class.
+Tags: Get ready to read, Lots of homework, Beware of pop quizzes
+
+---
+Date: 2025-09-15
+Course: CS127
+Rating: 1.0
+Difficulty: 1.0
+Comment: Not recommend this Professor or tutorial team. It is one of the worst course exercises although I was excited to take this course.
+Tags: Get ready to read, Lots of homework, So many papers
+
+---
+Date: 2025-05-05
+Course: CS127
+Rating: 1.0
+Difficulty: 3.0
+Comment: Retook 127 and what an absolute downgrade from the professor last semester. Professor St. John does not know how to properly teach a lecture. She is also very belittling of students who don't get concepts straight away.
+Tags: Tough grader, Get ready to read
+
+---
+Date: 2025-04-15
+Course: CS127
+Rating: 1.0
+Difficulty: 4.0
+Comment: One of the worst experiences I've ever had. Katherine's class is the reason I am switching majors. Avoid avoid avoid!
+Tags: Lots of homework
+
+---
+Date: 2025-03-09
+Course: CS127
+Rating: 1.0
+Difficulty: 3.0
+Comment: so apparently st john has not taught 127 in over 3 years and it is very clear how outdated and stuck in the past she is. the way she teaches is absolutely terrible. the start of the semester she immediately began going over questions from the final exam on topics we had not even covered yet avoid at all costs. the TAs do everything shes supposed to
+Tags: Get ready to read, Graded by few things
+
+---
+Date: 2023-11-07
+Course: CS39542
+Rating: 1.0
+Difficulty: 5.0
+Comment: She's not nice. I still wish I didn't take 39542 with her.
+Tags: Tough grader, Participation matters, Test heavy
+
+---
+Date: 2023-07-18
+Course: CS39542
+Rating: 1.0
+Difficulty: 5.0
+Comment: Avoid at all costs. Despite being an elective, the workload is tremendous! It's important to note that no matter how well you perform on the quizzes, homework, and coding tests if you fail the final exam, you will fail the entire class. This course is challenging and incredibly dense. I recommend choosing a different elective for your own benefit.
+Tags: Lots of homework, Beware of pop quizzes, Test heavy
+
+---
+Date: 2023-05-18
+Course: CSCI39542
+Rating: 1.0
+Difficulty: 5.0
+Comment: Final exam was a war crime due to the change in difficulty from practice exams (previous) to the actual exam. Way too much work for an ELECTIVE. If you don't care about data, DO NOT TAKE.
+Tags: None
+
+---
+Date: 2023-05-17
+Course: CSCI39542
+Rating: 3.0
+Difficulty: 4.0
+Comment: Content taught was fine. Weekly assignments was suboptimal but tolerable. The final exam was so suboptimal it fell to the center of the Earth. It was much harder than the practice exams, final coding exam, and other course work. We got baited and switched. If the final written exam was better written, I would give a 4.
+Tags: Lots of homework, Graded by few things
+
+---
+Date: 2023-05-17
+Course: CS39542
+Rating: 1.0
+Difficulty: 5.0
+Comment: She was the person that made the fail final fail course scenario so thank her. Also this is an intro course and an elective but she made this course harder than ever, would not recommend her, she can also be petty and rude
+Tags: Tough grader, Lots of homework, Lecture heavy
+
+---
+Date: 2023-05-17
+Course: CS39542
+Rating: 1.0
+Difficulty: 5.0
+Comment: If you care about your grade do not take this course. She literally gives so much hw and quizzes and at the end of the day if you fail final you fail the course. She reviews previous final and the actual final is completely different and more harder.
+Tags: Tough grader, Lots of homework, Graded by few things
