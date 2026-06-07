@@ -20,6 +20,20 @@ Strict Rules:
 4. Keep the response factual, concise, and direct. Do not make up any facts, ratings, or details.
 """
 
+RMP_URLS = {
+    "Eric Schweitzer": "https://www.ratemyprofessors.com/professor/257192",
+    "Tiziana Ligorio": "https://www.ratemyprofessors.com/professor/815879",
+    "Melissa Lynch": "https://www.ratemyprofessors.com/professor/2505090",
+    "Saad Mneimneh": "https://www.ratemyprofessors.com/professor/926045",
+    "Susan Epstein": "https://www.ratemyprofessors.com/professor/192300",
+    "Pavel Shostak": "https://www.ratemyprofessors.com/professor/1823870",
+    "Mike Zamansky": "https://www.ratemyprofessors.com/professor/2212256",
+    "Katherine St John": "https://www.ratemyprofessors.com/professor/2324096",
+    "Katherine St. John": "https://www.ratemyprofessors.com/professor/2324096",
+    "Stewart Weiss": "https://www.ratemyprofessors.com/professor/192304",
+    "Ioannis Stamos": "https://www.ratemyprofessors.com/professor/64427"
+}
+
 
 def generate_response(query, retrieved_chunks):
     """
@@ -126,7 +140,7 @@ def generate_response(query, retrieved_chunks):
         # Programmatically append sources
         sources = sorted(list(set(c["professor"] for c in valid_chunks)))
         if sources:
-            source_links = ", ".join(f"[{s}](file:///home/lezu/Projects/codepath/ai201/ai201-project1-unofficial-guide-starter/documents/{s.lower().replace('.', '').replace(' ', '_')}.txt)" for s in sources)
+            source_links = ", ".join(f"[{s}]({RMP_URLS.get(s, '#')})" for s in sources)
             return f"{answer}\n\n**Sources:** {source_links}"
         else:
             return answer

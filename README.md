@@ -124,7 +124,7 @@ Strict Rules:
 ```
 
 **How source attribution is surfaced in the response:**
-To programmatically guarantee source attribution, we set the LLM temperature to `0.0` to prevent hallucination, and we write a Python metadata parser. The parser extracts the unique professor names from the verified retrieved chunks and appends actual clickable local markdown file links (pointing to their text documents under `documents/`) at the bottom of the response message.
+To programmatically guarantee source attribution, we set the LLM temperature to `0.0` to prevent hallucination, and we write a Python metadata parser. The parser extracts the unique professor names from the verified retrieved chunks and appends actual clickable links pointing directly to the official Rate My Professors profile pages for each cited instructor at the bottom of the response message.
 
 ---
 
