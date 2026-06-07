@@ -68,12 +68,9 @@ def generate_response(query, retrieved_chunks):
 
     # Build context string
     context_parts = []
-    for i, chunk in enumerate(valid_chunks):
-        context_parts.append(
-            f"--- Source Chunk {i+1} ({chunk['professor']}) ---\n"
-            f"Text:\n{chunk['text']}"
-        )
-    context_text = "\n\n".join(context_parts)
+    for chunk in valid_chunks:
+        context_parts.append(chunk['text'].strip())
+    context_text = "\n\n---\n\n".join(context_parts)
 
     answer = None
     errors = []
@@ -139,6 +136,8 @@ def generate_response(query, retrieved_chunks):
     else:
         # Programmatically append sources
         sources = sorted(list(set(c["professor"] for c in valid_chunks)))
+        # Only cite professors actually mentioned in the final response text
+        sources = [s for s in sources if s.lower() in answer.lower()]
         if sources:
             source_links = ", ".join(f"[{s}]({RMP_URLS.get(s, '#')})" for s in sources)
             return f"{answer}\n\n**Sources:** {source_links}"
