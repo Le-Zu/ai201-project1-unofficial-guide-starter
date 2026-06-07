@@ -96,6 +96,19 @@ If deploying this system to a production environment with thousands of users and
 
 ---
 
+## Retrieval and Query Normalization
+
+To make search highly resilient to variations in student behavior, we implemented two key enhancements in [retriever.py](file:///home/lezu/Projects/codepath/ai201/ai201-project1-unofficial-guide-starter/retriever.py):
+
+1. **Course Code Preprocessing & Normalization:** 
+   Students frequently search using shorthand course codes such as `CS 150`, `cs150`, or `CS-150` instead of the formal prefix `CSCI 150` used in official records. We added a regular expression preprocessor that intercepts queries matching these patterns and normalizes them to a search expansion format (e.g., `CSCI150 CSCI 150`), matching both spaced and spaceless course code formats.
+2. **Dynamic Retrieval Expansion:**
+   Standard queries retrieve a default top-k (`N_RESULTS = 4`). However, course-wide queries (e.g., *"Which professors teach CSCI 150?"*) or comparison queries require scanning across reviews of multiple distinct professors. When a course-wide query is detected, the system dynamically scales the retrieval limit (`n_results`) to `15` to capture reviews across all matching documents.
+3. **Statistical & Comparison Query Injection:**
+   Comparison queries (e.g., *"Which professor has the lowest 'Would take again' score?"* or *"Who is the easiest professor?"*) require data from all professors' profiles to draw accurate conclusions. When a comparison keyword is identified, the retriever automatically loads the overall statistics header chunks for all 10 professors and appends them to the context. This allows the LLM to perform complete, accurate comparisons.
+
+---
+
 ## Grounded Generation
 
 **System prompt grounding instruction:**
@@ -124,6 +137,8 @@ To programmatically guarantee source attribution, we set the LLM temperature to 
 | 3 | How does Saad Mneimneh curve grades in his classes? | For STAT 319, grades are curved using the square root ($\sqrt{x}$) method. For CSCI 705, he applies a generous curve and allows students below a B to do extra work for a B+. For CSCI 150, he offers curves and extra credit in recitation. | In CSCI 705, he curves generously and allows extra work. In STAT 319, he uses the "√ method". In CSCI 150, he offers generous curves and extra credit in recitation. | Relevant | Accurate |
 | 4 | Why was a student flagged for cheating by Katherine St. John on a homework they missed? | The student missed the homework because they were trying to beat the "Demon of Hatred" in the game Sekiro all day, and St. John flagged them for cheating anyway. | A student was flagged for cheating on a missed homework because they missed the deadline due to trying to beat the "Demon of Hatred" in Sekiro all day, and she flagged them anyway. | Relevant | Accurate |
 | 5 | What kind of questions make up a large portion of Stewart Weiss's exams and quizzes? | Tricky true or false questions make up 30% of exams and 90% of quizzes in CSCI 340. | True or false questions make up a large portion of his exams (30 percent) and quizzes (90 percent) in CSCI 340. | Relevant | Accurate |
+| 6 | Which professors teach CSCI 150 according to the reviews? | Based on the loaded reviews, CSCI 150 has been taught by Ioannis Stamos, Saad Mneimneh, Eric Schweitzer, and Susan Epstein. | The reviews indicate that CSCI 150 is taught by Ioannis Stamos, Saad Mneimneh, Eric Schweitzer, and Susan Epstein. | Relevant | Accurate |
+| 7 | Which professor has the lowest "Would take again" score? | Susan Epstein has the lowest "Would Take Again" score at 15.1%. | Susan Epstein has the lowest "Would Take Again" score at 15.1%. | Relevant | Accurate |
 
 ---
 

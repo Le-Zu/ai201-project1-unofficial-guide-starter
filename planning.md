@@ -68,6 +68,8 @@ We will evaluate the system's accuracy and grounding using these 5 "few shot" te
 | 3 | How does Saad Mneimneh curve grades in his classes? | For STAT 319, grades are curved using the square root ($\sqrt{x}$) method. For CSCI 705, he applies a generous curve and allows students below a B to do extra work for a B+. For CSCI 150, he offers curves and extra credit in recitation. |
 | 4 | Why was a student flagged for cheating by Katherine St. John on a homework they missed? | The student missed the homework because they were trying to beat the "Demon of Hatred" in the game Sekiro all day, and St. John flagged them for cheating anyway. |
 | 5 | What kind of questions make up a large portion of Stewart Weiss's exams and quizzes? | Tricky true or false questions make up 30% of exams and 90% of quizzes in CSCI 340. |
+| 6 | Which professors teach CSCI 150 according to the reviews? | Based on the loaded reviews, CSCI 150 has been taught by Ioannis Stamos, Saad Mneimneh, Eric Schweitzer, and Susan Epstein. |
+| 7 | Which professor has the lowest "Would take again" score? | Susan Epstein has the lowest "Would Take Again" score at 15.1%. |
 
 ---
 
